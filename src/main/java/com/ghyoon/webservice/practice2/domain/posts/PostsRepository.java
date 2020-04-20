@@ -1,4 +1,4 @@
-package com.ghyoon.webservice.practice2.web.domain.posts;
+package com.ghyoon.webservice.practice2.domain.posts;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

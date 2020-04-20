@@ -1,4 +1,4 @@
-package com.ghyoon.webservice.practice2.web.domain.posts;
+package com.ghyoon.webservice.practice2.domain.posts;
 
 import lombok.Builder;
 import lombok.Getter;
