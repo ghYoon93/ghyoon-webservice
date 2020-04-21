@@ -1,4 +1,4 @@
-package com.ghyoon.webservice.practice2.web;
+package com.ghyoon.webservice.practice2.web.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

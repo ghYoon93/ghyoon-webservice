@@ -1,4 +1,4 @@
-package com.ghyoon.webservice.practice2.web.domain.posts;
+package com.ghyoon.webservice.practice2.domain.posts;
 
 import com.ghyoon.webservice.practice2.domain.posts.Posts;
 import com.ghyoon.webservice.practice2.domain.posts.PostsRepository;

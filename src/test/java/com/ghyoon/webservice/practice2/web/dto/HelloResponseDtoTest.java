@@ -1,7 +1,7 @@
 package com.ghyoon.webservice.practice2.web.dto;
 
 
-import com.ghyoon.webservice.practice2.web.HelloResponseDto;
+import com.ghyoon.webservice.practice2.web.dto.HelloResponseDto;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
